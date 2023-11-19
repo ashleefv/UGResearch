@@ -9,4 +9,4 @@ This repository includes MATLAB live scripts used to train new undergraduate res
 [dePillisSoln.mlx](https://github.com/ashleefv/UGResearch/blob/master/dePillisSoln.mlx) is a partial solution for the dePillis, Gu, and Radunskaya (2006) model. The purposes of this exercise are for students to encounter issues with reproducible research computing and to gain practice with editing interactive coding templates to simulate other equations, parameter values, or conditions.
 
 Reference:
-L. G. dePillis, W. Gu, and A. E. Radunskaya. 2006. Mixed immunotherapy and chemotherapy of tumors: modeling, applications and biological interpretations. J Theoretical Biology 238 (4):841-62. doi: 10.1016/j.jtbi.2005.06.037.
+L. G. dePillis, W. Gu, and A. E. Radunskaya. 2006. Mixed immunotherapy and chemotherapy of tumors: modeling, applications and biological interpretations. J Theoretical Biology 238 (4):841-62. [doi: 10.1016/j.jtbi.2005.06.037](https://pubmed.ncbi.nlm.nih.gov/16153659/).
